@@ -15,6 +15,9 @@ MODEL_EFFORTS = {
     "gpt-5.6-luna": (*DEFAULT_EFFORTS, "max"),
     "gpt-5.6-terra": (*DEFAULT_EFFORTS, "max", "ultra"),
     "gpt-5.6-sol": (*DEFAULT_EFFORTS, "max", "ultra"),
+    "gpt-6-luna": (*DEFAULT_EFFORTS, "max"),
+    "gpt-6-sol": (*DEFAULT_EFFORTS, "max", "ultra"),
+    "gpt-6-astra": (*DEFAULT_EFFORTS, "max", "ultra"),
 }
 
 
